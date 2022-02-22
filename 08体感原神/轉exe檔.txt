@@ -1,0 +1,6 @@
+pyinstaller -F -w .\hello.py (-w取消小黑匡)
+
+
+mediapipe
+--add-data="C:\Users\Nullbee\AppData\Local\Programs\Python\Python39\Lib\site-packages\mediapipe\modules;mediapipe/modules"
+
